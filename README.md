@@ -29,6 +29,7 @@ Done! You can now execute commands from telegram in your linux terminal.
 
 
 To execute the script: **python terminalbot.py**
+
 To kill the script: Ctrl+C
 
 
